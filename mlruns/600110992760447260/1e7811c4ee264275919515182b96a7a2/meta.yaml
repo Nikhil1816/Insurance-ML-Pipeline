@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NikhilKumar/Desktop/Employee_Insurance/mlruns/600110992760447260/1e7811c4ee264275919515182b96a7a2/artifacts
+end_time: 1745490497305
+entry_point_name: ''
+experiment_id: '600110992760447260'
+lifecycle_stage: active
+run_id: 1e7811c4ee264275919515182b96a7a2
+run_name: suave-fish-693
+run_uuid: 1e7811c4ee264275919515182b96a7a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745490491999
+status: 3
+tags: []
+user_id: NikhilKumar
